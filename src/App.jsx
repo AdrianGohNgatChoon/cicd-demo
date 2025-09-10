@@ -7,6 +7,7 @@ function App() {
     <>
       <MyName />
       <ProductPage />
+      <h1>Hello lovers</h1>
     </>
   )
 }
